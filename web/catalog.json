@@ -227,8 +227,8 @@
     {
      "kind": "var",
      "range": [
-      -15,
-      75
+      0,
+      45
      ],
      "P": [
       22.60000000000001,
@@ -239,7 +239,7 @@
       0.0
      ],
      "slot": false,
-     "file": "inserts/DJI_O3/O3_var-15_75"
+     "file": "inserts/DJI_O3/O3_var00_45"
     }
    ],
    "cm": "web/m/df503c35d1.glb"
@@ -346,8 +346,8 @@
     {
      "kind": "var",
      "range": [
-      -15,
-      75
+      0,
+      45
      ],
      "P": [
       23.10000000000001,
@@ -358,7 +358,7 @@
       0.0
      ],
      "slot": false,
-     "file": "inserts/DJI_Vista_AirUnit/VIS_var-15_75"
+     "file": "inserts/DJI_Vista_AirUnit/VIS_var00_45"
     },
     {
      "kind": "var",
@@ -925,8 +925,8 @@
     {
      "kind": "single",
      "range": [
-      -15,
-      75
+      0,
+      45
      ],
      "P": [
       21.60000000000001,
@@ -937,13 +937,13 @@
       0.0
      ],
      "slot": false,
-     "file": "inserts/Micro_19mm_1otwor/M19_var-15_75"
+     "file": "inserts/Micro_19mm_1otwor/M19_var00_45"
     },
     {
      "kind": "single",
      "range": [
-      -15,
-      75
+      0,
+      45
      ],
      "P": [
       21.60000000000001,
@@ -954,7 +954,7 @@
       0.0
      ],
      "slot": true,
-     "file": "inserts/Micro_19mm_1otwor/M19_var-15_75_slot"
+     "file": "inserts/Micro_19mm_1otwor/M19_var00_45_slot"
     }
    ]
   },
@@ -972,8 +972,8 @@
     {
      "kind": "single",
      "range": [
-      -15,
-      75
+      0,
+      45
      ],
      "P": [
       17.700000000000003,
@@ -984,13 +984,13 @@
       0.0
      ],
      "slot": false,
-     "file": "inserts/Nano_14mm_1otwor/N14_var-15_75"
+     "file": "inserts/Nano_14mm_1otwor/N14_var00_45"
     },
     {
      "kind": "single",
      "range": [
-      -15,
-      75
+      0,
+      45
      ],
      "P": [
       17.700000000000003,
@@ -1001,7 +1001,7 @@
       0.0
      ],
      "slot": true,
-     "file": "inserts/Nano_14mm_1otwor/N14_var-15_75_slot"
+     "file": "inserts/Nano_14mm_1otwor/N14_var00_45_slot"
     }
    ]
   }
