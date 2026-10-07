@@ -1,0 +1,1009 @@
+{
+ "T": [
+  133.54,
+  25.55,
+  -12.87
+ ],
+ "YC": 24.34,
+ "families": {
+  "DJI_O4_Pro": {
+   "name": "DJI O4 Pro",
+   "w": 20.0,
+   "h": 23.8,
+   "screws": 2,
+   "spacing": 16,
+   "x0": -17.35,
+   "x1": 10.24,
+   "lens": 15.0,
+   "lensL": 6.0,
+   "options": [
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      23.26955669510062,
+      22.29999999999994
+     ],
+     "th": 5,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix05"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      24.16274360360694,
+      22.199999999999942
+     ],
+     "th": 10,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix10"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      24.607044827425852,
+      22.099999999999945
+     ],
+     "th": 15,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix15"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      24.83986548424582,
+      21.89999999999994
+     ],
+     "th": 20,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix20"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      24.895202516927384,
+      21.699999999999946
+     ],
+     "th": 25,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix25"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      25.319280092720874,
+      21.399999999999945
+     ],
+     "th": 30,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix30"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      25.132001251346082,
+      21.299999999999947
+     ],
+     "th": 35,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix35"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      24.522650659942883,
+      21.199999999999946
+     ],
+     "th": 40,
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_fix40"
+    },
+    {
+     "kind": "var",
+     "range": [
+      10,
+      46
+     ],
+     "P": [
+      23.700000000000003,
+      22.20000000000001
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/DJI_O4_Pro/O4P_var10_46"
+    }
+   ],
+   "cm": "web/m/8b9f20e2a5.glb"
+  },
+  "DJI_O3": {
+   "name": "DJI O3",
+   "w": 20.0,
+   "h": 19.6,
+   "screws": 2,
+   "spacing": 6,
+   "x0": -12.83,
+   "x1": 9.84,
+   "lens": 13.0,
+   "lensL": 4.5,
+   "options": [
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      22.216648218716728,
+      22.39999999999994
+     ],
+     "th": 5,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix05"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      21.588523770027678,
+      22.099999999999945
+     ],
+     "th": 10,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix10"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      21.137415689969203,
+      22.39999999999994
+     ],
+     "th": 15,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix15"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      20.20530437497655,
+      21.999999999999943
+     ],
+     "th": 20,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix20"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      20.317377724844846,
+      22.69999999999994
+     ],
+     "th": 25,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix25"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      20.823981603316497,
+      22.099999999999945
+     ],
+     "th": 30,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix30"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      21.28725364341517,
+      21.699999999999946
+     ],
+     "th": 35,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix35"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      21.521646433480782,
+      20.999999999999947
+     ],
+     "th": 40,
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_fix40"
+    },
+    {
+     "kind": "var",
+     "range": [
+      -15,
+      75
+     ],
+     "P": [
+      22.60000000000001,
+      21.80000000000001
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/DJI_O3/O3_var-15_75"
+    }
+   ],
+   "cm": "web/m/df503c35d1.glb"
+  },
+  "DJI_Vista_AirUnit": {
+   "name": "DJI FPV / Caddx Vista",
+   "w": 20.0,
+   "h": 21.1,
+   "screws": 2,
+   "spacing": 6,
+   "x0": -15.83,
+   "x1": 16.6,
+   "lens": 14.0,
+   "lensL": 6.0,
+   "options": [
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      23.166372573119588,
+      22.29999999999994
+     ],
+     "th": 5,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix05"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      22.87377922689484,
+      21.999999999999943
+     ],
+     "th": 10,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix10"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      22.54783394864353,
+      21.89999999999994
+     ],
+     "th": 15,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix15"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      22.66062221006723,
+      22.69999999999994
+     ],
+     "th": 20,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix20"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      22.491977120866068,
+      22.29999999999994
+     ],
+     "th": 25,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix25"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      22.82171013689367,
+      22.89999999999994
+     ],
+     "th": 30,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix30"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      23.098716205640812,
+      22.79999999999994
+     ],
+     "th": 35,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix35"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      23.42671051893558,
+      23.19999999999994
+     ],
+     "th": 40,
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_fix40"
+    },
+    {
+     "kind": "var",
+     "range": [
+      -15,
+      75
+     ],
+     "P": [
+      23.10000000000001,
+      22.100000000000016
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_var-15_75"
+    },
+    {
+     "kind": "var",
+     "range": [
+      5,
+      40
+     ],
+     "P": [
+      22.60000000000001,
+      20.900000000000013
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/DJI_Vista_AirUnit/VIS_var05_40"
+    }
+   ],
+   "cm": "web/m/5d4683b515.glb"
+  },
+  "DJI_O4_Lite": {
+   "name": "DJI O4 Lite",
+   "w": 14.0,
+   "h": 20.1,
+   "screws": 2,
+   "spacing": 16,
+   "x0": -5.51,
+   "x1": 11.35,
+   "lens": 10.0,
+   "lensL": 3.0,
+   "options": [
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      17.616190171072958,
+      22.59999999999994
+     ],
+     "th": 5,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix05"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      16.73518617937225,
+      22.59999999999994
+     ],
+     "th": 10,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix10"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      16.13513364168466,
+      22.69999999999994
+     ],
+     "th": 15,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix15"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      15.214532751269871,
+      22.79999999999994
+     ],
+     "th": 20,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix20"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      15.68518163500994,
+      22.89999999999994
+     ],
+     "th": 25,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix25"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      16.319101378976484,
+      22.79999999999994
+     ],
+     "th": 30,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix30"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      16.944536771130515,
+      22.79999999999994
+     ],
+     "th": 35,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix35"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      17.75765500734269,
+      22.69999999999994
+     ],
+     "th": 40,
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_fix40"
+    },
+    {
+     "kind": "var",
+     "range": [
+      -5,
+      49
+     ],
+     "P": [
+      18.70000000000001,
+      22.500000000000007
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/DJI_O4_Lite/O4L_var-05_49"
+    }
+   ],
+   "cm": "web/m/07dffc4c7c.glb"
+  },
+  "Walksnail_19mm_2otwory": {
+   "name": "Walksnail 19 mm",
+   "w": 19.0,
+   "h": 19.0,
+   "screws": 2,
+   "spacing": 6,
+   "x0": -18.5,
+   "x1": 5.5,
+   "lens": 14.0,
+   "lensL": 6.0,
+   "options": [
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      25.556139873573557,
+      21.199999999999946
+     ],
+     "th": 5,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix05"
+    },
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      25.556139873573557,
+      21.199999999999946
+     ],
+     "th": 5,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix05_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      25.209692201387952,
+      19.49999999999995
+     ],
+     "th": 10,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix10"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      25.209692201387952,
+      19.49999999999995
+     ],
+     "th": 10,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix10_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      25.1784873540455,
+      19.299999999999955
+     ],
+     "th": 15,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix15"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      25.1784873540455,
+      19.299999999999955
+     ],
+     "th": 15,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix15_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      24.648720629527816,
+      18.999999999999954
+     ],
+     "th": 20,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix20"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      24.648720629527816,
+      18.999999999999954
+     ],
+     "th": 20,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix20_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      25.916245044762036,
+      22.199999999999942
+     ],
+     "th": 25,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix25"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      25.916245044762036,
+      22.199999999999942
+     ],
+     "th": 25,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix25_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      24.99391160502273,
+      18.499999999999957
+     ],
+     "th": 30,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix30"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      24.99391160502273,
+      18.499999999999957
+     ],
+     "th": 30,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix30_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      26.41092672299419,
+      21.699999999999946
+     ],
+     "th": 35,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix35"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      26.41092672299419,
+      21.699999999999946
+     ],
+     "th": 35,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix35_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      26.281053433427587,
+      21.799999999999944
+     ],
+     "th": 40,
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix40"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      26.281053433427587,
+      21.799999999999944
+     ],
+     "th": 40,
+     "slot": true,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_fix40_slot"
+    },
+    {
+     "kind": "var",
+     "range": [
+      16,
+      37
+     ],
+     "P": [
+      26.800000000000004,
+      22.6
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/Walksnail_19mm_2otwory/WS_var16_37"
+    }
+   ]
+  },
+  "Walksnail_Moonlight": {
+   "name": "Walksnail Moonlight",
+   "w": 19.6,
+   "h": 19.0,
+   "screws": 2,
+   "spacing": 6,
+   "x0": -18.5,
+   "x1": 5.5,
+   "lens": 16.0,
+   "lensL": 6.0,
+   "options": [
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      25.441264962457353,
+      20.699999999999946
+     ],
+     "th": 5,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix05"
+    },
+    {
+     "kind": "fixed",
+     "angle": 5,
+     "P": [
+      25.441264962457353,
+      20.699999999999946
+     ],
+     "th": 5,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix05_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      24.84963390266057,
+      18.699999999999953
+     ],
+     "th": 10,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix10"
+    },
+    {
+     "kind": "fixed",
+     "angle": 10,
+     "P": [
+      24.84963390266057,
+      18.699999999999953
+     ],
+     "th": 10,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix10_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      25.10615370614687,
+      18.699999999999953
+     ],
+     "th": 15,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix15"
+    },
+    {
+     "kind": "fixed",
+     "angle": 15,
+     "P": [
+      25.10615370614687,
+      18.699999999999953
+     ],
+     "th": 15,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix15_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      25.29521871295583,
+      19.99999999999995
+     ],
+     "th": 20,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix20"
+    },
+    {
+     "kind": "fixed",
+     "angle": 20,
+     "P": [
+      25.29521871295583,
+      19.99999999999995
+     ],
+     "th": 20,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix20_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      25.64908450251096,
+      21.199999999999946
+     ],
+     "th": 25,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix25"
+    },
+    {
+     "kind": "fixed",
+     "angle": 25,
+     "P": [
+      25.64908450251096,
+      21.199999999999946
+     ],
+     "th": 25,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix25_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      25.325284876773367,
+      18.899999999999956
+     ],
+     "th": 30,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix30"
+    },
+    {
+     "kind": "fixed",
+     "angle": 30,
+     "P": [
+      25.325284876773367,
+      18.899999999999956
+     ],
+     "th": 30,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix30_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      27.23086132494791,
+      23.19999999999994
+     ],
+     "th": 35,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix35"
+    },
+    {
+     "kind": "fixed",
+     "angle": 35,
+     "P": [
+      27.23086132494791,
+      23.19999999999994
+     ],
+     "th": 35,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix35_slot"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      26.67026474166778,
+      22.59999999999994
+     ],
+     "th": 40,
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix40"
+    },
+    {
+     "kind": "fixed",
+     "angle": 40,
+     "P": [
+      26.67026474166778,
+      22.59999999999994
+     ],
+     "th": 40,
+     "slot": true,
+     "file": "inserts/Walksnail_Moonlight/WSM_fix40_slot"
+    },
+    {
+     "kind": "var",
+     "range": [
+      16,
+      33
+     ],
+     "P": [
+      26.500000000000007,
+      21.500000000000007
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/Walksnail_Moonlight/WSM_var16_33"
+    }
+   ]
+  },
+  "Micro_19mm_1otwor": {
+   "name": "Micro 19 mm",
+   "w": 19.0,
+   "h": 19.0,
+   "screws": 1,
+   "spacing": 0,
+   "x0": -13.0,
+   "x1": 8.0,
+   "lens": 14.0,
+   "lensL": 6.0,
+   "options": [
+    {
+     "kind": "single",
+     "range": [
+      -15,
+      75
+     ],
+     "P": [
+      21.60000000000001,
+      22.80000000000001
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/Micro_19mm_1otwor/M19_var-15_75"
+    },
+    {
+     "kind": "single",
+     "range": [
+      -15,
+      75
+     ],
+     "P": [
+      21.60000000000001,
+      22.80000000000001
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": true,
+     "file": "inserts/Micro_19mm_1otwor/M19_var-15_75_slot"
+    }
+   ]
+  },
+  "Nano_14mm_1otwor": {
+   "name": "Nano 14 mm",
+   "w": 14.0,
+   "h": 14.0,
+   "screws": 1,
+   "spacing": 0,
+   "x0": -9.0,
+   "x1": 8.0,
+   "lens": 11.0,
+   "lensL": 5.0,
+   "options": [
+    {
+     "kind": "single",
+     "range": [
+      -15,
+      75
+     ],
+     "P": [
+      17.700000000000003,
+      24.4
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": false,
+     "file": "inserts/Nano_14mm_1otwor/N14_var-15_75"
+    },
+    {
+     "kind": "single",
+     "range": [
+      -15,
+      75
+     ],
+     "P": [
+      17.700000000000003,
+      24.4
+     ],
+     "c": [
+      0.0,
+      0.0
+     ],
+     "slot": true,
+     "file": "inserts/Nano_14mm_1otwor/N14_var-15_75_slot"
+    }
+   ]
+  }
+ }
+}
