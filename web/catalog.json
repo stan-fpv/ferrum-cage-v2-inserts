@@ -1005,5 +1005,35 @@
     }
    ]
   }
+ },
+ "elrs": {
+  "name": "ELRS antenna (XR1)",
+  "options": [
+   {
+    "id": "XR1_tilt00",
+    "label": "XR1 mount 0\u00b0",
+    "file": "inserts/ELRS/XR1_tilt00"
+   },
+   {
+    "id": "XR1_tilt15",
+    "label": "XR1 mount 15\u00b0",
+    "file": "inserts/ELRS/XR1_tilt15"
+   },
+   {
+    "id": "XR1_tilt30",
+    "label": "XR1 mount 30\u00b0",
+    "file": "inserts/ELRS/XR1_tilt30"
+   },
+   {
+    "id": "XR1_tilt45",
+    "label": "XR1 mount 45\u00b0",
+    "file": "inserts/ELRS/XR1_tilt45"
+   },
+   {
+    "id": "SOCKET_PLUG",
+    "label": "Blanking plug",
+    "file": "inserts/ELRS/SOCKET_PLUG"
+   }
+  ]
  }
 }
